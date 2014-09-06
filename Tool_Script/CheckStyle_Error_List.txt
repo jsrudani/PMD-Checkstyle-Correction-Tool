@@ -1,0 +1,18 @@
+',' is not followed by whitespace.:::10
+Line has trailing spaces.:::20
+'\+' is not preceded with whitespace.:::30
+'\+' is not followed by whitespace.:::40
+'if' is not followed by whitespace.:::50
+'=' is not preceded with whitespace.:::60
+'=' is not followed by whitespace.:::70
+'{' is not preceded with whitespace.:::80
+First sentence should end with a period.:::90
+'static' modifier out of order with the JLS suggestions.:::100
+'!=' is not preceded with whitespace.:::110
+'!=' is not followed by whitespace.:::120
+'\(' is followed by whitespace.:::130
+'\)' is preceded with whitespace.:::140
+'}' is not followed by whitespace.:::150
+Unused import:::160
+'for' is not followed by whitespace.:::170
+'{' is not followed by whitespace.:::180
